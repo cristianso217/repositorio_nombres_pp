@@ -26,6 +26,9 @@ public class Programa02 {
         System.out.println("Sueldo bruto: "+sb);
         System.out.println("Descuento: "+d);
         System.out.println("Sueldo Neto: "+sn);
+        
+        // Nueva línea:
+        System.out.println("Mi nombre es " + empleado + ", mi sueldo bruto es " + sb + ", tengo un descuento de " + d + " y mi sueldo neto es " + sn + ".");
         }
                 
     }
